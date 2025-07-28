@@ -15,16 +15,16 @@
    <tr>
     <td align="center"><a href="https://github.com/murphybread"><img src="https://avatars.githubusercontent.com/murphybread" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/Calli-T"><img src="https://avatars.githubusercontent.com/Calli-T" width="60px" alt=""></a></td>
+    <td align="center"><a href="https://github.com/KibeomGwon"><img src="https://avatars.githubusercontent.com/KibeomGwon" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/Min-code0202"><img src="https://avatars.githubusercontent.com/Min-code0202" width="60px" alt=""></a></td>
-    <td align="center"><a href="https://github.com/kiryanchi"><img src="https://avatars.githubusercontent.com/kiryanchi" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/iamreward00"><img src="https://avatars.githubusercontent.com/iamreward00" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/smj1513"><img src="https://avatars.githubusercontent.com/smj1513" width="60px" alt=""></a></td>
   </tr>
     <tr>
       <td align="center"><a href="https://github.com/murphybread"><b>murphybread</b></a></td>
       <td align="center"><a href="https://github.com/Calli-T"><b>Calli-T</b></a></td>
+      <td align="center"><a href="https://github.com/KibeomGwon"><b>KibeomGwon</b></a></td>
       <td align="center"><a href="https://github.com/Min-code0202"><b>Min-code0202</b></a></td>
-      <td align="center"><a href="https://github.com/kiryanchi"><b>kiryanchi</b></a></td>
       <td align="center"><a href="https://github.com/iamreward00"><b>iamreward00</b></a></td>
       <td align="center"><a href="https://github.com/smj1513"><b>smj1513</b></a></td>
     </tr>
