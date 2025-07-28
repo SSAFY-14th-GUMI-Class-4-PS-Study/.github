@@ -1,4 +1,4 @@
-# 🩵 SSAFY 14기 구미 4반 문제 해결 스터디 - B형 목표
+# 🩵 문제 해결 스터디
 ## 👥 MEMBERS
 <table>
   <thead>
@@ -33,7 +33,7 @@
 
 <br>
 
-## 🏆 문제 해결 현황
+## 🏆 [이달의 문제](https://github.com/SSAFY-14th-GUMI-Class-4-PS-Study/code-store) 해결 현황
 
 <div id="table-container">
 <table style="width: 846px;">
