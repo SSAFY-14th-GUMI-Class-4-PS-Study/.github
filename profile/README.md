@@ -10,6 +10,7 @@
       <th width="140px">정재민</th>
       <th width="140px">전상훈</th>
       <th width="140px">성민제</th>
+      <th width="140px">강지석</th>
     </tr>
   </thead>
   <tbody>
@@ -20,6 +21,7 @@
     <td align="center"><a href="https://github.com/Min-code0202"><img src="https://avatars.githubusercontent.com/Min-code0202" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/iamreward00"><img src="https://avatars.githubusercontent.com/iamreward00" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/smj1513"><img src="https://avatars.githubusercontent.com/smj1513" width="60px" alt=""></a></td>
+     <td align="center"><a href="https://github.com/KangJiSseok"><img src="https://avatars.githubusercontent.com/KangJiSseok" width="60px" alt=""></a></td>
   </tr>
     <tr>
       <td align="center"><a href="https://github.com/murphybread"><b>murphybread</b></a></td>
@@ -28,6 +30,7 @@
       <td align="center"><a href="https://github.com/Min-code0202"><b>Min-code0202</b></a></td>
       <td align="center"><a href="https://github.com/iamreward00"><b>iamreward00</b></a></td>
       <td align="center"><a href="https://github.com/smj1513"><b>smj1513</b></a></td>
+      <td align="center"><a href="https://github.com/KangJiSseok"><b>smj1513</b></a></td>
     </tr>
   </tbody>
 </table>
@@ -86,6 +89,15 @@
       <td class="date-07-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
     <tr class="smj-tr"> <td>성민제</td>
+      <td class="date-01-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-02-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-03-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-04-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-05-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-06-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-07-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+    </tr>
+    <tr class="smj-tr"> <td>강지석</td>
       <td class="date-01-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-02-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-03-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
