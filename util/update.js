@@ -5,7 +5,7 @@ const { people, levels, lastUpdate } = require('./const');
 
 // code-store 레포지토리에서 페이지 번호에 따라 커밋 로그 조회
 async function fetchCommits(pageNum) {
-    const url = `https://api.github.com/repos/Problem-solve-study/code-store/commits?page=${pageNum}`;
+    const url = `https://api.github.com/repos/SSAFY-14th-GUMI-Class-4-PS-Study/code-store/commits?page=${pageNum}`;
     
     try {
         const response = await fetch(url);
