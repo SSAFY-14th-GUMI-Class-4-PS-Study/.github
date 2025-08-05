@@ -38,6 +38,8 @@ jobs:
     - name: Run update js script
       working-directory: ./util/
       run: node update.js
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
     - name: Push to origin
       working-directory: ./
