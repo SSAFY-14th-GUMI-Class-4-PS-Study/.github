@@ -30,7 +30,7 @@
       <td align="center"><a href="https://github.com/Min-code0202"><b>Min-code0202</b></a></td>
       <td align="center"><a href="https://github.com/iamreward00"><b>iamreward00</b></a></td>
       <td align="center"><a href="https://github.com/smj1513"><b>smj1513</b></a></td>
-      <td align="center"><a href="https://github.com/KangJiSseok"><b>smj1513</b></a></td>
+      <td align="center"><a href="https://github.com/KangJiSseok"><b>KangJiSseok</b></a></td>
     </tr>
   </tbody>
 </table>
