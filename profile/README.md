@@ -1,11 +1,12 @@
 
 # 🩵 문제 해결 스터디
+
 ## 👥 MEMBERS
+
 <table>
   <thead>
     <tr>
       <th width="140px">김민찬</th>
-      <th width="140px">김재환</th>
       <th width="140px">권기범</th>
       <th width="140px">정재민</th>
       <th width="140px">전상훈</th>
@@ -25,7 +26,6 @@
   </tr>
     <tr>
       <td align="center"><a href="https://github.com/murphybread"><b>murphybread</b></a></td>
-      <td align="center"><a href="https://github.com/Calli-T"><b>Calli-T</b></a></td>
       <td align="center"><a href="https://github.com/KibeomGwon"><b>KibeomGwon</b></a></td>
       <td align="center"><a href="https://github.com/Min-code0202"><b>Min-code0202</b></a></td>
       <td align="center"><a href="https://github.com/iamreward00"><b>iamreward00</b></a></td>
@@ -52,15 +52,6 @@
       <td class="date-0802-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0803-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
-    <tr class="kjh-tr"> <td>김재환</td>
-      <td class="date-0728-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0729-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0730-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0731-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0801-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0802-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0803-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-    </tr>
     <tr class="kkb-tr"> <td>권기범</td>
       <td class="date-0728-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0729-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
@@ -89,6 +80,15 @@
       <td class="date-0803-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
     <tr class="smj-tr"> <td>성민제</td>
+      <td class="date-0728-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0729-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0730-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0731-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0801-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0802-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0803-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+    </tr>
+    <tr class="kjs-tr"> <td>강지석</td>
       <td class="date-0728-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0729-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0730-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
@@ -111,15 +111,6 @@
       <td class="date-0809-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0810-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
-    <tr class="kjh-tr"> <td>김재환</td>
-      <td class="date-0804-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0805-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0806-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0807-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0808-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0809-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0810-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-    </tr>
     <tr class="kkb-tr"> <td>권기범</td>
       <td class="date-0804-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0805-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
@@ -148,6 +139,15 @@
       <td class="date-0810-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
     <tr class="smj-tr"> <td>성민제</td>
+      <td class="date-0804-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0805-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0806-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0807-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0808-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0809-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0810-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+    </tr>
+    <tr class="kjs-tr"> <td>강지석</td>
       <td class="date-0804-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0805-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0806-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
@@ -170,15 +170,6 @@
       <td class="date-0816-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0817-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
-    <tr class="kjh-tr"> <td>김재환</td>
-      <td class="date-0811-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0812-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0813-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0814-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0815-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0816-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0817-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-    </tr>
     <tr class="kkb-tr"> <td>권기범</td>
       <td class="date-0811-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0812-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
@@ -207,6 +198,15 @@
       <td class="date-0817-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
     <tr class="smj-tr"> <td>성민제</td>
+      <td class="date-0811-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0812-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0813-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0814-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0815-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0816-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0817-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+    </tr>
+    <tr class="kjs-tr"> <td>강지석</td>
       <td class="date-0811-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0812-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0813-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
@@ -229,15 +229,6 @@
       <td class="date-0823-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0824-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
-    <tr class="kjh-tr"> <td>김재환</td>
-      <td class="date-0818-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0819-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0820-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0821-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0822-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0823-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0824-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-    </tr>
     <tr class="kkb-tr"> <td>권기범</td>
       <td class="date-0818-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0819-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
@@ -266,6 +257,15 @@
       <td class="date-0824-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
     <tr class="smj-tr"> <td>성민제</td>
+      <td class="date-0818-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0819-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0820-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0821-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0822-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0823-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0824-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+    </tr>
+    <tr class="kjs-tr"> <td>강지석</td>
       <td class="date-0818-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0819-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0820-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
@@ -288,15 +288,6 @@
       <td class="date-0830-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0831-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
-    <tr class="kjh-tr"> <td>김재환</td>
-      <td class="date-0825-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0826-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0827-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0828-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0829-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0830-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-      <td class="date-0831-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
-    </tr>
     <tr class="kkb-tr"> <td>권기범</td>
       <td class="date-0825-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0826-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
@@ -325,6 +316,15 @@
       <td class="date-0831-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
     </tr>
     <tr class="smj-tr"> <td>성민제</td>
+      <td class="date-0825-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0826-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0827-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0828-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0829-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0830-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+      <td class="date-0831-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
+    </tr>
+    <tr class="kjs-tr"> <td>강지석</td>
       <td class="date-0825-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0826-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
       <td class="date-0827-td"><div align="center"><span class="easy"><img src="blank.svg" height="20px"></span><span class="normal"><img src="blank.svg" height="20px"></span><span class="hard"><img src="blank.svg" height="20px"></span></div></td>
