@@ -1,7 +1,7 @@
 const people = [
   { id: "kmc", name: "김민찬", username: "murphybread" },
   { id: "kkb", name: "권기범", username: "KibeomGwon" },
-  { id: "jjm", name: "정재민", username: "kiryanchi" },
+  { id: "jjm", name: "정재민", username: "Min-code0202" },
   { id: "jsh", name: "전상훈", username: "iamreward00" },
   { id: "smj", name: "성민제", username: "smj1513" },
   { id: "kjs", name: "강지석", username: "KangJiSseok" },
