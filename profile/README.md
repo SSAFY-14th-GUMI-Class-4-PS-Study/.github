@@ -17,7 +17,6 @@
   <tbody>
    <tr>
     <td align="center"><a href="https://github.com/murphybread"><img src="https://avatars.githubusercontent.com/murphybread" width="60px" alt=""></a></td>
-    <td align="center"><a href="https://github.com/Calli-T"><img src="https://avatars.githubusercontent.com/Calli-T" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/KibeomGwon"><img src="https://avatars.githubusercontent.com/KibeomGwon" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/Min-code0202"><img src="https://avatars.githubusercontent.com/Min-code0202" width="60px" alt=""></a></td>
     <td align="center"><a href="https://github.com/iamreward00"><img src="https://avatars.githubusercontent.com/iamreward00" width="60px" alt=""></a></td>
